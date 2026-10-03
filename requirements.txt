@@ -1,0 +1,4 @@
+dlib-bin
+face-recognition
+Pillow
+setuptools<81
